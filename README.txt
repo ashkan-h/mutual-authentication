@@ -1,5 +1,3 @@
-Ashkan Hosseini, ah3450, Network Security
-
 
 1) To install the libraries: 
 	The python program relies on the pycrypto module. I was bored thought it would be cool to check it out. It can be simply downloaded by via Pip:
