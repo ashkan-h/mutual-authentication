@@ -1,6 +1,6 @@
 
 1) To install the libraries: 
-	The python program relies on the pycrypto module. I was bored thought it would be cool to check it out. It can be simply downloaded by via Pip:
+	The python program relies on the pycrypto module. It can be simply downloaded by via Pip:
 	sudo apt-get install python-dev
 	sudo pip install pycrypto
 
